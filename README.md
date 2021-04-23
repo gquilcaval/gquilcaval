@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @gquilcaval
-- 👀 I’m interested in desarrollo de software
-- 🌱 I am currently a systems engineering student
+- 👋 Hi, I’m Giancarlos
+- 👀 I'm interested in software development
+- 🌱 I am a computer and informatics technician graduate and a systems engineering student
 
 <!---
 gquilcaval/gquilcaval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
